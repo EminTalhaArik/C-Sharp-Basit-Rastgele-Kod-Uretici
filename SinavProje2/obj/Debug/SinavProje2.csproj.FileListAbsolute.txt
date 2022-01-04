@@ -1,0 +1,10 @@
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru2\SinavProje2\SinavProje2\obj\Debug\SinavProje2.csprojAssemblyReference.cache
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru2\SinavProje2\SinavProje2\obj\Debug\SinavProje2.Form1.resources
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru2\SinavProje2\SinavProje2\obj\Debug\SinavProje2.Properties.Resources.resources
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru2\SinavProje2\SinavProje2\obj\Debug\SinavProje2.csproj.GenerateResource.cache
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru2\SinavProje2\SinavProje2\obj\Debug\SinavProje2.csproj.CoreCompileInputs.cache
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru2\SinavProje2\SinavProje2\bin\Debug\SinavProje2.exe.config
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru2\SinavProje2\SinavProje2\bin\Debug\SinavProje2.exe
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru2\SinavProje2\SinavProje2\bin\Debug\SinavProje2.pdb
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru2\SinavProje2\SinavProje2\obj\Debug\SinavProje2.exe
+D:\Giriş\Dosyalar\193_Emin_Talha_Arik\Soru2\SinavProje2\SinavProje2\obj\Debug\SinavProje2.pdb
